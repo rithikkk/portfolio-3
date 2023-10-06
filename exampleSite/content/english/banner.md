@@ -1,14 +1,15 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Rithik Lalchandani"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Rithik"
+last_name : "Lalchandani"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Software Developer"
+- "Technical Support Specialist"
+- "Junior Penetration Tester"
+
 
 # slider background image loop
 slider_images:
@@ -17,10 +18,10 @@ slider_images:
 - "images/slider/slider-3.jpg"
 
 # button
-button:
-  enable : true
-  label : "HIRE ME"
-  link : "#contact"
+#button:
+#  enable : true
+#  label : "HIRE ME"
+#  link : "#contact"
 
 
 # custom style
