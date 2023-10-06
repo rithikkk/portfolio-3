@@ -1,10 +1,10 @@
 ---
-title : "NEED A SERVICE?"
+title : "Want to connect?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
-  label : "SAY HELLO!"
-  link : "#contact"
+  label : "<i class='fab fa-linkedin'></i> Linkedin link"
+  link : "https://www.linkedin.com/in/rithik-lalchandani-b935271b8/"
 
 
 # custom style
