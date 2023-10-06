@@ -3,7 +3,7 @@ title : "Want to connect?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
-  label : "Linkedin Page"
+  label : ![LinkedIn Icon](images/icons/linkedin.png)
   link : "https://www.linkedin.com/in/rithik-lalchandani-b935271b8/"
 
 
