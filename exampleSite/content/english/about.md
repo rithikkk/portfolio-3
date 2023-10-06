@@ -1,5 +1,5 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "KNOW MORE <br> ABOUT RITHIK"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
@@ -13,22 +13,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Technical Support Specialist"
+      company : "KellyConnect for Apple"
+      duration : "June 2023 - Present"
+      content : "Provided comprehensive technical support to Apple customers, ensuring efficient resolution of hardware and software issues. Contributed to enhancing overall functionality and user experience for Apple products."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Technical Support Specialist"
+      company : "5 Star Driving School"
+      duration : "January 2019 - October 2022"
+      content : "Managed and maintained company databases, ensuring data integrity and optimal operational efficiency. Designed, tested, and implemented applications tailored to the unique needs of the driving school industry."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Certified Junior Penetration Tester"
+      company : "Online"
+      duration : "February 2018 - September 2018"
+      content : "Attained certification in penetration testing, further enhancing skills in cybersecurity and threat assessment."
 
 ############################### Skill #################################
 skill:
@@ -36,21 +36,20 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
+    - name : "Programming (Python, Java, C++, C#)"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
-
+    - name : "Database Management (SQL/SQLite)"
+      percentage : "88%"
+      
+    # skill item loop
+    - name : "Web Development (React.js)"
+      percentage : "85%"
+      
+    # skill item loop
+    - name : "Cloud Technologies (AWS, Azure)"
+      percentage : "87%"
 
 # custom style
 custom_class: "" 
@@ -58,4 +57,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Rithik Lalchandani, a dedicated computer scientist and technical specialist. My passion lies in leveraging technology to solve real-world problems. With experience ranging from cybersecurity to technical support for leading tech giants, I continuously strive to expand my skillset and make a meaningful impact. Connect with me to explore collaborations and innovative solutions.
