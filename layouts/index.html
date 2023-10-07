@@ -245,7 +245,7 @@
 <!-- End About Me -->
 
 <!-- Start Services -->
-{{ with .GetPage "service" }}
+<!--{{ with .GetPage "service" }}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="services {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="service">
   <div class="container">
@@ -271,7 +271,7 @@
     </div>
   </div>
 </section>
-{{ end }}
+{{ end }} -->
 <!-- End Services -->
 
 <!-- call to action -->
@@ -405,7 +405,7 @@
 <!-- Start Contact -->
 {{ with .GetPage "contact"}}
 <style>{{.Params.custom_css | safeCSS}}</style>
-<section class="contact {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} style="background-image: url('{{.Params.bg_image | absURL}}');" id="contact">
+<!--<section class="contact {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} style="background-image: url('{{.Params.bg_image | absURL}}');" id="contact">
   <div class="container">
     <div class="row">
       <div class="contact-holder col-lg-8 offset-lg-2 col-sm-8 offset-sm-2">
@@ -432,7 +432,7 @@
           </div>
         </form>
       </div>
-    </div>
+    </div> -->
     <div class="row">
       <div class="footer col-lg-10 offset-lg-1">
         <hr>
