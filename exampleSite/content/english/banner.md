@@ -13,9 +13,8 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
 - "images/slider/slider-2.png"
-- "images/slider/slider-3.jpg"
+
 
 # button
 #button:
