@@ -50,6 +50,10 @@ skill:
     # skill item loop
     - name : "Cloud Technologies (AWS, Azure)"
       percentage : "87%"
+    
+    # skill item loop
+    - name : "Application Development (Android Studio, Xcode)"
+      percentage : "95%"
 
 # custom style
 custom_class: "" 
