@@ -1,26 +1,26 @@
 ---
-title: ""
+title: "Social Links"
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
-- name : "HANDS TO WORK"
+- name : "Linkedin"
   image : "images/icons/works.png"
-  count : "100"
+  #count : "100"
   
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "Github"
   image : "images/icons/happy.png"
-  count : "200"
+  #count : "200"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "Twitter"
   image : "images/icons/project.png"
-  count : "250"
+  #count : "250"
   
 # funfacts item loop
-- name : "CUPS OF COFFEE"
+- name : "Instagram"
   image : "images/icons/coffee.png"
-  count : "150"
+  #count : "150"
 
 
 # custom style
