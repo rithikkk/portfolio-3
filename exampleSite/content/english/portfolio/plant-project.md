@@ -2,7 +2,7 @@
 title: "Remote Plant Monitoring for MacEwan University"
 date: "2022-09-01"
 image: "images/portfolio/item1.png"
-categories: ["IoT", "Hydroponics", "Cloud", "Android Development"]
+categories: ["IoT", "Hydroponics", "Cloud", "Android Development", "Java", "Microcontrollers"]
 description: "An IoT-based remote plant monitoring system for hydroponic gardens at MacEwan University."
 draft: false
 project_info:
