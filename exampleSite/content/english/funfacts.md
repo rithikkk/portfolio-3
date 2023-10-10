@@ -4,22 +4,22 @@ bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
 - name : "Linkedin"
-  image : "images/icons/works.png"
+  image : "images/icons/icons-8-linkedin-48.png"
   #count : "100"
   
 # funfacts item loop
 - name : "Github"
-  image : "images/icons/happy.png"
+  image : "images/icons/icons-8-instagram-48.png"
   #count : "200"
   
 # funfacts item loop
 - name : "Twitter"
-  image : "images/icons/project.png"
+  image : "images/icons/icons-8-twitterx-50.png"
   #count : "250"
   
 # funfacts item loop
 - name : "Instagram"
-  image : "images/icons/coffee.png"
+  image : "images/icons/icons-8-instagram-48.png"
   #count : "150"
 
 
