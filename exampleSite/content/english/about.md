@@ -21,7 +21,7 @@ experience:
     # experience item loop
     - name : "Technical Support Specialist"
       company : "5 Star Driving School"
-      duration : ")January 2019 - October 2022)"
+      duration : "(January 2019 - October 2022)"
       content : "Managed and maintained company databases, ensuring data integrity and optimal operational efficiency. Designed, tested, and implemented applications tailored to the unique needs of the driving school industry."
       
     # experience item loop
