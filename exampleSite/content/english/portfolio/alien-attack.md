@@ -17,7 +17,7 @@ project_info:
   content: "WebGL, Python, JavaScript"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://github.com/Ryan-at-git/CMPT370_GroupProject"
+  content: "https://github.com/rithikkk/alienattack"
 ---
 
 ## Introduction
