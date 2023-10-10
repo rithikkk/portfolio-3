@@ -2,9 +2,22 @@
 title: "Alien Attack - MacEwan University Project"
 date: "2023-01-01"
 image: "images/portfolio/item2.png"  
-categories: ["Game", "WebGL", "Design"]
+categories: ["Game", "WebGL", "Design", "JavaScript", "Python"]
 description: "Alien Attack: A thrilling game where players fend off waves of alien invaders."
 draft: false
+project_info:
+- name: "Client"
+  icon: "fas fa-user"
+  content: "MacEwan University"
+- name: "Project Type"
+  icon: "fas fa-seedling"
+  content: "Game Development"
+- name: "Technologies"
+  icon: "fas fa-cogs"
+  content: "WebGL, Python, JavaScript"
+- name: "Project Link"
+  icon: "fas fa-link"
+  content: "https://github.com/Ryan-at-git/CMPT370_GroupProject"
 ---
 
 ## Introduction
