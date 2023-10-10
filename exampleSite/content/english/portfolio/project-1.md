@@ -1,7 +1,7 @@
 ---
 title: "Remote Plant Monitoring for MacEwan University"
-date: [Today's Date, for instance: 2023-10-10T12:14:34+06:00]
-image: "images/portfolio/item1.jpg"
+date: "2022-09-01"
+image: "images/portfolio/item1.png"
 categories: ["IoT", "Hydroponics", "Cloud", "Android Development"]
 description: "An IoT-based remote plant monitoring system for hydroponic gardens at MacEwan University."
 draft: false
