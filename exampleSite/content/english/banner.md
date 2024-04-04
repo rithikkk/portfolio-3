@@ -6,9 +6,9 @@ last_name : "Lalchandani"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "CompTIA Certified (A+, Network+, Security+)"
+- "CompTIA Certified"
 - "Technical Support Specialist"
-- "Aspiring Cybersecurity Professional"
+- "Aspiring Security Professional"
 - "Junior Sysadmin"
 
 
