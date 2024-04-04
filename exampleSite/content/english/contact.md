@@ -1,7 +1,7 @@
 ---
 title : "SAY HELLO!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
-form_action: "/contact" # works with https://formspree
+form_action: "#" # works with https://formspree
 name: "Rithik Lalchandani"
 email: "lalchandanirithik@gmail.com"
 message: "Message"
