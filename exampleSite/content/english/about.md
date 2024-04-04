@@ -1,64 +1,57 @@
 ---
-title : "KNOW MORE <br> ABOUT RITHIK"
-image : "images/backgrounds/portrait.jpg"
-# button
+title: "LEARN MORE ABOUT ME"
+image: "images/backgrounds/portrait.jpg"
+# Button Configuration
 button:
-  enable : true
-  label : "DOWNLOAD MY CV"
-  link : "images/Rithik_Lalchandani_dev.pdf"
+  enable: true
+  label: "DOWNLOAD MY RESUME"
+  link: "images/Rithik_Lalchandani_Resume.pdf"
 
-########################### Experience ##############################
+########################### Professional Experience #########################
 experience:
-  enable : true
-  title : "EXPERIENCE"
+  enable: true
+  title: "MY CAREER JOURNEY"
   experience_list:
-    # experience item loop
-    - name : "Technical Support Specialist"
-      company : "KellyConnect for Apple"
-      duration : "(June 2023 - Present)"
-      content : "Provided comprehensive technical support to Apple customers, ensuring efficient resolution of hardware and software issues. Contributed to enhancing overall functionality and user experience for Apple products."
+    - name: "Technical Support Specialist"
+      company: "KellyConnect"
+      duration: "Jan 2023 - Present"
+      content: "Delivered high-quality technical support, resolving a broad range of issues to ensure optimal system functionality and user satisfaction."
       
-    # experience item loop
-    - name : "Technical Support Specialist"
-      company : "5 Star Driving School"
-      duration : "(January 2019 - October 2022)"
-      content : "Managed and maintained company databases, ensuring data integrity and optimal operational efficiency. Designed, tested, and implemented applications tailored to the unique needs of the driving school industry."
+    - name: "Junior System Administrator"
+      company: "AON"
+      duration: "Jan 2019 - Oct 2020"
+      content: "Oversaw the maintenance and administration of IT systems, enhancing data security and operational efficiency across the organization."
       
-    # experience item loop
-    - name : "Certified Junior Penetration Tester"
-      company : "Online"
-      duration : "(February 2018 - September 2018)"
-      content : "Attained certification in penetration testing, further enhancing skills in cybersecurity and threat assessment."
+    - name: "Certified Junior Penetration Tester"
+      company: "Freelance"
+      duration: "Feb 2018 - Sep 2018"
+      content: "Focused on strengthening cybersecurity measures through detailed assessments and recommendations for system enhancements."
 
-############################### Skill #################################
+############################### Skills & Expertise ############################
 skill:
-  enable : true
-  title : "SKILL"
+  enable: true
+  title: "SPECIALIZED SKILLS"
   skill_list:
-    # skill item loop
-    - name : "Programming (Python, Java, C++, C#)"
-      percentage : "90%"
+    - name: "Expertise in Technical Support & Troubleshooting"
+      percentage: "95%"
       
-    # skill item loop
-    - name : "Database Management (SQL/SQLite)"
-      percentage : "88%"
+    - name: "System Administration & Maintenance"
+      percentage: "90%"
       
-    # skill item loop
-    - name : "Web Development (React.js)"
-      percentage : "85%"
+    - name: "Cybersecurity Practices & Penetration Testing"
+      percentage: "85%"
       
-    # skill item loop
-    - name : "Cloud Technologies (AWS, Azure)"
-      percentage : "87%"
+    - name: "Network Configuration & Management (TCP/IP, LAN/WAN)"
+      percentage: "88%"
     
-    # skill item loop
-    - name : "Application Development (Android Studio, Xcode)"
-      percentage : "95%"
+    - name: "Proficient in Windows & Linux Operating Systems"
+      percentage: "87%"
 
-# custom style
+# Custom Styling
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
 ---
 
-Rithik Lalchandani, a dedicated computer scientist and technical specialist. My passion lies in leveraging technology to solve real-world problems. With experience ranging from cybersecurity to technical support for leading tech giants, I continuously strive to expand my skillset and make a meaningful impact. Connect with me to explore collaborations and innovative solutions.
+I am Rithik Lalchandani, deeply passionate about the intersection of technology and problem-solving. My professional journey has been marked by a commitment to excellence in technical support and system administration. With a keen focus on maintaining secure, efficient, and highly available IT environments, I thrive on challenges that allow me to leverage my analytical skills and technical knowledge. Eager to contribute to a team where continuous improvement is embraced, I am on the lookout for roles that resonate with my expertise and ambitions. Let’s explore how I can make a significant impact within your organization.
+
