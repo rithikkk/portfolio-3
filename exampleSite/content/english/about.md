@@ -22,7 +22,10 @@ experience:
       duration: "Jan 2019 - Oct 2020"
       content: "Oversaw the maintenance and administration of IT systems, enhancing data security and operational efficiency across the organization."
       
-
+- name: "Bachelor of Computer Science"
+  company: "MacEwan University"
+  duration: "Jan 2019 - Jun 2023"
+  content: "Completed a comprehensive program focused on software development, system analysis, and network security, laying a solid foundation for a career in information technology and system administration."
 ############################### Skills & Expertise ############################
 skill:
   enable: true
