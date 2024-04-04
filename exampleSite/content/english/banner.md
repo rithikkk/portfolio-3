@@ -6,9 +6,10 @@ last_name : "Lalchandani"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Software Developer"
+- "CompTIA Certified (A+, Network+, Security+)"
 - "Technical Support Specialist"
-- "Junior Penetration Tester"
+- "Aspiring Cybersecurity Professional"
+- "Junior Sysadmin"
 
 
 # slider background image loop

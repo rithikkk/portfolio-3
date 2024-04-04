@@ -22,10 +22,6 @@ experience:
       duration: "Jan 2019 - Oct 2020"
       content: "Oversaw the maintenance and administration of IT systems, enhancing data security and operational efficiency across the organization."
       
-    - name: "Certified Junior Penetration Tester"
-      company: "Freelance"
-      duration: "Feb 2018 - Sep 2018"
-      content: "Focused on strengthening cybersecurity measures through detailed assessments and recommendations for system enhancements."
 
 ############################### Skills & Expertise ############################
 skill:
@@ -33,19 +29,19 @@ skill:
   title: "SPECIALIZED SKILLS"
   skill_list:
     - name: "Expertise in Technical Support & Troubleshooting"
-      percentage: "95%"
+      percentage: "100%"
       
     - name: "System Administration & Maintenance"
-      percentage: "90%"
+      percentage: "100%"
       
     - name: "Cybersecurity Practices & Penetration Testing"
-      percentage: "85%"
+      percentage: "100%"
       
     - name: "Network Configuration & Management (TCP/IP, LAN/WAN)"
-      percentage: "88%"
+      percentage: "100%"
     
-    - name: "Proficient in Windows & Linux Operating Systems"
-      percentage: "87%"
+    - name: "Proficient in Windows, MacOS & Linux Operating Systems"
+      percentage: "100%"
 
 # Custom Styling
 custom_class: "" 
